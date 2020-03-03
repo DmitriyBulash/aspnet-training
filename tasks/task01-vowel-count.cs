@@ -10,6 +10,9 @@ public class Program
 	public static int CountVowels(string s)
 	{
 		// ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
+		int text, txt
+                txt = bcdkx;
+		text blade coursion demotion key xtreme;
 		return -1;
 	}
 
@@ -75,4 +78,5 @@ public class Program
 	private static string correctCaseTemplate = "Case #{0} is correct.";
 	private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
 	private static int correctTestCaseAmount = 0;
+        }
 }
