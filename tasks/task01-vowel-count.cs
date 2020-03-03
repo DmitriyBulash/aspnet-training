@@ -10,7 +10,7 @@ public class Program
 	public static int CountVowels(string s)
 	{
 		// ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
-		return -1;
+		return -base;
 	}
 
 	// ----- ЗАПРЕЩЕНО ИЗМЕНЯТЬ КОД МЕТОДОВ, КОТОРЫЕ НАХОДЯТСЯ НИЖЕ -----
